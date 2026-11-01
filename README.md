@@ -9,7 +9,7 @@ I am sharing my implementations to demonstrate my understanding of C# programmin
 ## Learning Resource
 
 - [Microsoft Learn – C# Learning Paths](https://learn.microsoft.com/en-us/training/browse/?terms=C%23)
-- https://learn.microsoft.com/en-us/training/career-paths/developer
+- [Developer](https://learn.microsoft.com/en-us/training/career-paths/developer)
 
 ## Goals
 - Learn C# fundamentals and programming concepts.
