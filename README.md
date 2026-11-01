@@ -2,20 +2,24 @@
 
 ## About This Repository
 
-This repository contains my C# practice exercises and projects as I begin learning the C# programming language. It documents my progress from beginner-level concepts to more advanced topics as I continue developing my programming skills.
+This repository documents my journey learning C# as a beginner. It contains practice exercises based on Microsoft's official C# learning path for developers.
 
-The purpose of this repository is to practice programming fundamentals, strengthen my problem-solving abilities, and gain hands-on experience with C#.
+I am sharing my implementations to demonstrate my understanding of C# programming concepts, develop my coding skills, and track my progress as I work through the learning materials.
+
+## Learning Resource
+
+- [Microsoft Learn – C# Learning Paths](https://learn.microsoft.com/en-us/training/browse/?terms=C%23)
+- https://learn.microsoft.com/en-us/training/career-paths/developer
 
 ## Goals
-- Learn C# fundamentals and syntax.
-- Practice programming concepts through exercises.
-- Improve logical thinking and problem-solving skills.
-- Track my progress as I learn new concepts.
+- Learn C# fundamentals and programming concepts.
+- Apply what I learn through hands-on coding exercises.
+- Strengthen problem-solving and logical thinking.
+- Build confidence and practical experience with C#.
 
 ## Technologies
 - C#
 - .NET
 
-## Progress
-
-This repository will be updated as I continue learning and practicing C#.
+## Acknowledgment
+Learning materials and exercise instructions are provided by Microsoft Learn. This repository contains my personal practice implementations and is not an official Microsoft project.
