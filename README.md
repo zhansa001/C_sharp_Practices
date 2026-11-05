@@ -22,4 +22,6 @@ I am sharing my implementations to demonstrate my understanding of C# programmin
 - .NET
 
 ## Acknowledgment
-Learning materials and exercise instructions are provided by Microsoft Learn. This repository contains my personal practice implementations and is not an official Microsoft project.
+The learning materials and exercise instructions in this repository are based on Microsoft's official C# learning resources. The notes are my own summaries written in my own words, and the code contains my personal practice implementations.
+
+Microsoft Learn is credited as the original learning resource. This repository is not affiliated with or endorsed by Microsoft.
