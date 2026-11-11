@@ -21,6 +21,9 @@ I am sharing my implementations to demonstrate my understanding of C# programmin
 - C#
 - .NET
 
+## Compile
+- dotnet filename.cs
+
 ## Acknowledgment
 The learning materials and exercise instructions in this repository are based on Microsoft's official C# learning resources. The notes are my own summaries written in my own words, and the code contains my personal practice implementations.
 
