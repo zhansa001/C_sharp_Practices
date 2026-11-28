@@ -10,6 +10,7 @@ I am sharing my implementations to demonstrate my understanding of C# programmin
 
 - [Microsoft Learn – C# Learning Paths](https://learn.microsoft.com/en-us/training/browse/?terms=C%23)
 - [Developer](https://learn.microsoft.com/en-us/training/career-paths/developer)
+- [MS Learning](https://github.com/MicrosoftLearning/mslearn-csharp-programming.git)
 
 ## Goals
 - Learn C# fundamentals and programming concepts.
