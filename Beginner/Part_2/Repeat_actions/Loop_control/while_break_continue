@@ -1,0 +1,28 @@
+// While loop with break + continue
+
+double total = 0;
+while(true)
+{
+    Console.Write("Enter a positive number or 0 to end: ");
+    string input = Console.ReadLine();
+
+    if(!double.TryParse(input, out double number))
+    {
+        Console.WriteLine("Not a number. Try again");
+        continue;
+    }
+
+    else if(number < 0)
+    {
+        Console.WriteLine("Negative numbers are ignored. Try again");
+        continue;
+    }
+
+    else if (number == 0)
+    {
+        Console.WriteLine($"The total is {total}");
+        break;
+    }
+
+    total += number;
+}
